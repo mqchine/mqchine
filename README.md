@@ -65,9 +65,8 @@
 <div style="height: 45px;"></div>
 
 <div align="center" style="margin: 0 10% 0 10%; background: transparent;">
-  <span style="font-size: 16px; letter-spacing: 10px; opacity: 0.5;"><code style="background: rgba(150,150,150,0.2); padding: 3px 8px; border-radius: 6px; font-family: monospace;">©</code> &nbsp;&nbsp; 𖾛ₐ𖾜𖾝 &nbsp;&nbsp; ⱃᵧ &nbsp;&nbsp; ᵈᵉᶜᵃʸᶠˡᵉˢʰ &nbsp;&nbsp; 𛲕ₙ &nbsp;&nbsp; 𖾜𐄀𖾗꜀ 。</span>
-  <br>
-  <span style="font-size: 16px; letter-spacing: 10px; opacity: 0.5;">ₙ𛲕 &nbsp; ꜀𛲕ₚᵧ &nbsp; &amp; &nbsp; 𖾘𐄀ᶢₕ𖾙 &nbsp; 𐄀ₙ𖾗ₚ𛲕 &nbsp; 𛲕ₖ</span>
+  <span style="font-size: 16px; letter-spacing: 10px; opacity: 0.5;"><code style="background: rgba(150,150,150,0.2); padding: 3px 8px; border-radius: 6px; font-family: monospace;">©</code> &nbsp;&nbsp; 𖾛ₐ𖾜𖾝 &nbsp;&nbsp; ⱃᵧ &nbsp;&nbsp;𝒹ₑ𝒸ₐᵧ𝒻ₗₑₛₕ &nbsp;&nbsp; 𛲕ₙ &nbsp;&nbsp; 𖾜𐄀𖾗꜀ 。</span>
+  
 </div>
 
 <div style="height: 45px;"></div>
