@@ -20,14 +20,10 @@
 
 <div style="height: 45px;"></div>
 
-<div align="center" style="margin: 0; background: transparent;">
-  <img src="https://i.postimg.cc/cHRh52Xp/187-sin-titulo-20260929210003.png" style="background: transparent;">
 </div>
 
 <div style="height: 45px;"></div>
 
-<div align="center" style="margin: 0; background: transparent;">
-  <img src="https://i.postimg.cc/hP7SXqPy/186-sin-titulo-20260929231743.png" width="100%" style="background: transparent;">
 </div>
 
 <div style="height: 45px;"></div>
@@ -40,7 +36,7 @@
 
 <div align="center" style="margin: 0; background: transparent;">
   <span style="display: inline-flex; align-items: center; justify-content: center; gap: 80px;">
-    <span style="font-size: 16px; letter-spacing: 12px; opacity: 0.5;">ⱃₚ𖾜 &nbsp;&nbsp;&nbsp; 𖾜𐄀𖾜 &nbsp;&nbsp;&nbsp; 𖾗ᵧ𖾗</span>
+    <span style="font-size: 16px; letter-spacing: 12px; opacity: 0.5;">ᵉₙ𝓰 &nbsp;&nbsp;&nbsp; ᵉₛₚ &nbsp;&nbsp;&nbsp; ᵇᵣ</span>
     <img src="https://i.postimg.cc/0QTcymyT/84d053d44b4b06c437b9626cdd66b649.gif" width="25" height="24" style="background: transparent; display: block;">
   </span>
 </div>
@@ -69,7 +65,7 @@
 <div style="height: 45px;"></div>
 
 <div align="center" style="margin: 0 10% 0 10%; background: transparent;">
-  <span style="font-size: 16px; letter-spacing: 10px; opacity: 0.5;"><code style="background: rgba(150,150,150,0.2); padding: 3px 8px; border-radius: 6px; font-family: monospace;">©</code> &nbsp;&nbsp; 𖾛ₐ𖾜𖾝 &nbsp;&nbsp; ⱃᵧ &nbsp;&nbsp; 𖾘꜀ᵧ.𖾙 &nbsp;&nbsp; 𛲕ₙ &nbsp;&nbsp; 𖾜𐄀𖾗꜀ 。</span>
+  <span style="font-size: 16px; letter-spacing: 10px; opacity: 0.5;"><code style="background: rgba(150,150,150,0.2); padding: 3px 8px; border-radius: 6px; font-family: monospace;">©</code> &nbsp;&nbsp; 𖾛ₐ𖾜𖾝 &nbsp;&nbsp; ⱃᵧ &nbsp;&nbsp; ᵈᵉᶜᵃʸᶠˡᵉˢʰ &nbsp;&nbsp; 𛲕ₙ &nbsp;&nbsp; 𖾜𐄀𖾗꜀ 。</span>
   <br>
   <span style="font-size: 16px; letter-spacing: 10px; opacity: 0.5;">ₙ𛲕 &nbsp; ꜀𛲕ₚᵧ &nbsp; &amp; &nbsp; 𖾘𐄀ᶢₕ𖾙 &nbsp; 𐄀ₙ𖾗ₚ𛲕 &nbsp; 𛲕ₖ</span>
 </div>
