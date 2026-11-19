@@ -29,7 +29,7 @@
 <div style="height: 45px;"></div>
 
 <div align="center" style="margin: 0; background: transparent;">
-  <img src="https://i.postimg.cc/RZfNxmz5/186-sin-titulo-20260929222601.png" width="250" style="background: transparent;">
+  <img src="https://i.postimg.cc/FRB4KTMW/ff8310ce3ac4f927958a9ff8975275f6.gif" width="200" style="background: transparent;">
 </div>
 
 <div style="height: 20px;"></div>
@@ -72,8 +72,6 @@
 
 <div style="height: 45px;"></div>
 
-<div align="center" style="margin: 0; background: transparent;">
-  <img src="https://i.postimg.cc/FRB4KTMW/ff8310ce3ac4f927958a9ff8975275f6.gif" width="200" style="background: transparent;">
 </div>
 
 <div style="height: 30px;"></div>
