@@ -36,7 +36,7 @@
 
 <div align="center" style="margin: 0; background: transparent;">
   <span style="display: inline-flex; align-items: center; justify-content: center; gap: 80px;">
-    <span style="font-size: 16px; letter-spacing: 12px; opacity: 0.5;">ᵉₙ𝓰 &nbsp;&nbsp;&nbsp; ᵉₛₚ &nbsp;&nbsp;&nbsp; ᵇᵣ</span>
+    <span style="font-size: 16px; letter-spacing: 12px; opacity: 0.5;">ᵉ𝗻𝓰 &nbsp;&nbsp;&nbsp; 𝗲𝘀𝗽 &nbsp;&nbsp;&nbsp; ᵇ𝗿</span>
     <img src="https://i.postimg.cc/0QTcymyT/84d053d44b4b06c437b9626cdd66b649.gif" width="25" height="24" style="background: transparent; display: block;">
   </span>
 </div>
@@ -59,7 +59,7 @@
 <div style="height: 40px;"></div>
 
 <div align="center" style="margin: 0; background: transparent; font-size: 16px; letter-spacing: 6px; opacity: 0.7;">
-  𓂂⃘࣭࣭ٜ࣭◌͟ᩘִ֤֩𓈒︭𓏺𝄄𓈒ᩚ݃㍪◌⃘ֵ۫፝𝅙ᩘ ͚݃͝𝄄̫̣𓂂⃘࣭࣭◍𓈒ֵ۫
+ㅤׄㅤ  ۫ ♰ ؗؗ  娜𓄹ㅤׄㅤㅤׅ 𝗗𝗘𝗖𝗔𝗬𝗜𝗡𝗚 𝗠𝗘𝗖𝗛𝗔   ᣟׁ࣪▉ㅤㅤ
 </div>
 
 <div style="height: 45px;"></div>
