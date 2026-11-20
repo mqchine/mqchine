@@ -51,7 +51,6 @@
 <div style="height: 70px;"></div>
 
 <div align="center" style="margin: 0; background: transparent;">
-  <img src="https://i.postimg.cc/RhbHPT5D/IMG-3441-1.gif" style="background: transparent;">
 </div>
 
 <div style="height: 40px;"></div>
